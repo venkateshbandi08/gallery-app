@@ -1,0 +1,28 @@
+/* Write your code here. */
+.bg-container {
+  padding: 140px;
+  padding-top: 30px;
+}
+.top-gallery-image-container {
+}
+.top-gallery-image-style {
+  width: 1000px;
+}
+.bottom-thumbnail-container {
+  font-family: 'Roboto';
+}
+.main-heading {
+  color: #1e293b;
+  text-align: left;
+}
+.description {
+  color: #64748b;
+  font-weight: bold;
+}
+.thumbnail-images-container {
+  list-style-type: none;
+  display: flex;
+}
+.thumbnail-image-style {
+  margin-right: 20px;
+}
